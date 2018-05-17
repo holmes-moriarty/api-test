@@ -1,6 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-<plurals name="test_format">
-    <item quantity="one">%1$s. %2$d source v3.</item>
-    <item quantity="other">%1$s. %2$d sources.</item>
-</plurals
+v4
